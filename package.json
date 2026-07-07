@@ -25,7 +25,7 @@
     "@adonisjs/framework": "^4.0.14",
     "@adonisjs/ignitor": "^1.0.10",
     "@adonisjs/lucid": "^4.0.15",
-    "@adonisjs/mail": "^3.0.1",
+    "@adonisjs/mail": "^10.4.0",
     "@adonisjs/session": "^1.0.10",
     "@adonisjs/shield": "^1.0.2",
     "@adonisjs/validator": "^4.0.3",
